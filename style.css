@@ -30,6 +30,8 @@ h2 {
 }
 
 /* Header and banner styles */
+
+
 header {
     background-image: url(images/banner/banner3.png);
     text-align: right;
@@ -45,6 +47,7 @@ h1 {
 }
 
 /* About section */
+
 main {
     margin: 0 auto;
     max-width: 1160px;
